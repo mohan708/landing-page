@@ -1,0 +1,65 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin-left:auto;
+    margin-right:auto;
+}
+.flex{
+    display: flex;   
+}
+
+.flex-dir{
+    flex-direction: column;
+}
+.justify-between{
+    justify-content:space-between;
+}
+.item-center{
+    align-items: center;
+    }
+.justify-center{
+    justify-content: center;
+}
+
+.font-bold{
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.my-1{
+    margin-top: 13px;
+    margin-bottom:13px;
+}
+.my-2{
+    margin-top: 26px;
+    margin-bottom:26px;
+}
+
+.px-2{
+    padding-left: 13px;
+    padding-right:13px;
+}
+
+.text-color{
+    color: rgb(207, 66, 66);
+}
+
+.btn{
+    padding: 7px 12px;
+    border: 2px solid white ;
+    border-radius: 6px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(233, 73, 15);
+}
+
+.overflow-hidden{
+    overflow-x: hidden;
+}
+.text-center{
+    text-align: center;
+}
